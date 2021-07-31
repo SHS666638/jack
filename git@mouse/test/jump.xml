@@ -1,0 +1,5 @@
+# Jump High jump.high=20 #
+# Jump Slow jump.slow=-2 #
+jump.high=20
+execute=jump.high.and.slow
+ jump.slow=-2
